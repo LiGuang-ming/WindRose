@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindRose", "WindRose\WindRose.csproj", "{AC62CC5F-FFAA-4CE4-B272-91DE7DAD5451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindRoseCtrl", "WindRoseCtrl\WindRoseCtrl.csproj", "{F2A73863-899B-4A02-804B-78D30B836B35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC62CC5F-FFAA-4CE4-B272-91DE7DAD5451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC62CC5F-FFAA-4CE4-B272-91DE7DAD5451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC62CC5F-FFAA-4CE4-B272-91DE7DAD5451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC62CC5F-FFAA-4CE4-B272-91DE7DAD5451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A73863-899B-4A02-804B-78D30B836B35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A73863-899B-4A02-804B-78D30B836B35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A73863-899B-4A02-804B-78D30B836B35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A73863-899B-4A02-804B-78D30B836B35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

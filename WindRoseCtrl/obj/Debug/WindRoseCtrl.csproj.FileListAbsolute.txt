@@ -1,0 +1,7 @@
+E:\__phd_study\Program\PHD_Enose\WindRose\WindRoseCtrl\bin\Debug\WindRoseCtrl.dll
+E:\__phd_study\Program\PHD_Enose\WindRose\WindRoseCtrl\bin\Debug\WindRoseCtrl.pdb
+E:\__phd_study\Program\PHD_Enose\WindRose\WindRoseCtrl\obj\Debug\WindRoseCtrl.csprojResolveAssemblyReference.cache
+E:\__phd_study\Program\PHD_Enose\WindRose\WindRoseCtrl\obj\Debug\WindRoseCtrl.dll
+E:\__phd_study\Program\PHD_Enose\WindRose\WindRoseCtrl\obj\Debug\WindRoseCtrl.pdb
+E:\__phd_study\Program\PHD_Enose\WindRose\WindRoseCtrl\obj\Debug\WindRoseCtrl.UserControl1.resources
+E:\__phd_study\Program\PHD_Enose\WindRose\WindRoseCtrl\obj\Debug\WindRoseCtrl.csproj.GenerateResource.Cache
